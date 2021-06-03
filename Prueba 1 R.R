@@ -2,3 +2,6 @@
 
 auto <- mtcars
 head(auto)
+
+str(auto)
+
